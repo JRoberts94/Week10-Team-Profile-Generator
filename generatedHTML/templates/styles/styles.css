@@ -1,0 +1,43 @@
+
+.employee-card {
+    box-shadow: 5px 5px 5px gray;
+    margin: 1rem;
+    border: none;
+
+}
+
+.card-body {
+    background-color: rgb(240, 240, 240);
+}
+
+.center {
+    margin: 0 auto;	
+    width:100px;
+    		
+}
+
+.container {
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.item {
+    width: 10em;
+}
+
+.div-1{
+    width: 100px;
+    height: auto;
+}
+/* .centered{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    
+    
+
+} */
