@@ -2,11 +2,12 @@
 <div class="container card employee-card">
     <div class="row">
         <div class="col-sm card-header bg-primary text-white">
-            <h1 class="card-title">{{name}}</h1>
+            <h1 class="card-title {{icon1}} {{icon2}} {{icon3}}" style="font-size:48px;color:black">{{name}}</h1>
         </div>
         <div class="col-6 card-body">
             <ul class="list-group">
-                <li class="list-group-item">Email: {{email}}</li>
+                <a href="mailto:{{email}}">Email </a>
+                
                 <li class="list-group-item">ID: {{id}}</li>
                 <li class="list-group-item">Role: {{role}}</li>
 

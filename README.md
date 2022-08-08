@@ -15,6 +15,11 @@
 ## Description
 This weeks task was to create a Team Profile Generator, to easily manage your employees/ collegues information all in one place using the command/ terminal.
 
+## Links
+* [Link to deployed Website](https://jroberts94.github.io/)
+* [Link to github Repository](https://github.com/JRoberts94/Week10-Team-Profile-Generator)
+* ![Screenshot](./demo/week10-screenshot.PNG)
+
 ## Installation Instructions
 Start by cloning the repository to yoour local machine
  <br> 
@@ -36,7 +41,7 @@ for personal or prefessional usage
 this is an open source project, you may use and change at your own leisure
 
 ## Test Instructions
-in command console, type npm i or npm install <br> then once dependencies are downloaded type node app.js
+in command console, type npm i or npm install <br> then once dependencies are downloaded type "npm test" to run the tests/ test suites
 
 ## Questions
 feel free to contact me, for any questions or improvements you think of
