@@ -10,7 +10,7 @@
 - [Demo](#demo)
 
 ## Demo
-[demo](https://watch.screencastify.com/v/moIyf8CmPTgAIZmGruYi)
+[demo](https://watch.screencastify.com/v/O4Em6h4b1KV7JwKomDDZ)
 
 ## Description
 This weeks task was to create a Team Profile Generator, to easily manage your employees/ collegues information all in one place using the command/ terminal.
