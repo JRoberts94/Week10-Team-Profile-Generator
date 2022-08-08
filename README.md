@@ -16,7 +16,6 @@
 This weeks task was to create a Team Profile Generator, to easily manage your employees/ collegues information all in one place using the command/ terminal.
 
 ## Links
-* [Link to deployed Website](https://jroberts94.github.io/)
 * [Link to github Repository](https://github.com/JRoberts94/Week10-Team-Profile-Generator)
 * ![Screenshot](./demo/week10-screenshot.PNG)
 
