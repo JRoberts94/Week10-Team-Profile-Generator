@@ -21,17 +21,17 @@ function createCard(employee){
     if(employee.getRole() === 'Manager'){
         replaced = replaced.replace('{{attr_key}}', 'Office Number')
         .replace('{{attr_value}}', employee.getOfficeNumber())
-        // .replace('{{icon1}}', 'fas fa-user-tie')
+        .replace('{{icon1}}', 'fas fa-user-tie')
     }
     if(employee.getRole() === 'Engineer'){
         replaced = replaced.replace('{{attr_key}}', 'Github')
         .replace('{{attr_value}}', `<a href="https://github.com/${employee.github}" target="_blank">${employee.github}</a>`)
-        // .replace('{{icon2}}', 'fas fa-wrench')
+        .replace('{{icon2}}', 'fas fa-wrench')
     }
     if(employee.getRole() === 'Intern'){
         replaced = replaced.replace('{{attr_key}}', 'School')
         .replace('{{attr_value}}', employee.getSchool())
-        // .replace('{{icon3}}', 'fas fa-user-graduate')
+        .replace('{{icon3}}', 'fas fa-user-graduate')
     }
 
     return replaced;
